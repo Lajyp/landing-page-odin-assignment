@@ -1,0 +1,35 @@
+.container {
+    background-color: #1f2937;
+    color: #f9faf8;
+    position: relative;
+}
+
+
+/*find a way how to move navbar to the right*/
+.navbar {
+    background-color: #1f2937;
+    position: relative;
+}
+
+
+.right-links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    color: #f9faf8;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+
+
+
