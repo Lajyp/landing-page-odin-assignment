@@ -9,25 +9,26 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 30px 10%;
 }
 
 .container {
     background-color: #1f2937;
     color: #f9faf8;
     position: relative;
-    padding: 30px;
+   
 }
 
 .head {
     cursor: pointer;
-    margin-left: 8.6%;
+    
 }
 
 
 
 .nav {
     align-items: center;
-    margin-right: 130px;
+    margin-right: auto;
 }
 
 .nav li {
@@ -69,4 +70,25 @@ a {
     
 }
 
+/*Second layer*/
+
+.second-layer-title {
+    text-align: center;
+    padding: 20px;
+}
+
+.content-box {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.box {
+    background-color: #3882f6;
+    border-radius: 35px;
+    margin: 10px;
+    align-items: center;
+    text-align: center;
+}
 
