@@ -74,7 +74,7 @@ a {
 
 .second-layer-title {
     text-align: center;
-    padding: 20px;
+    padding: 30px;
 }
 
 .content-box {
@@ -92,3 +92,10 @@ a {
     text-align: center;
 }
 
+/*Third layer*/
+
+.third-layer {
+    background-color: #E5E7EB;
+    padding: 30px;
+    text-align: center;
+}
