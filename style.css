@@ -72,25 +72,38 @@ a {
 
 /*Second layer*/
 
+.second-layer {
+    align-items: center;
+}
+
+
 .second-layer-title {
     text-align: center;
     padding: 30px;
+    align-items: center;
 }
 
-.content-box {
+.second-container {
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
-
-
 
 .box {
     background-color: #3882f6;
     border-radius: 35px;
-    margin: 10px;
-    align-items: center;
-    text-align: center;
+    justify-content: space-around;
 }
+
+.caption-back {
+    
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
 
 /*Third layer*/
 
